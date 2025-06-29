@@ -9,7 +9,7 @@ A basic terminal-based banking system that allows users to:
 
 🔧 How to Run
 
-      .python banking.py
+      python banking.py
 
 ✅ Features :
 
